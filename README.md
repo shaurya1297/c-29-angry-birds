@@ -1,2 +1,2 @@
-# c-29-angry-birds
-slingshot implemented
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
